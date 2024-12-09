@@ -61,15 +61,15 @@ Al aplicar modelos de Regresión sobre los 3 clusters obtenemos las siguientes m
 
 **Cluster -1**
 
-![alt text](image.png)
+![imagen](image.png)
 
 **Cluster 0**
 
-![alt text](image-1.png)
+![imagen](image-1.png)
 
 **Cluster 1**
 
-![alt text](image-2.png)
+![imagen](image-2.png)
 
 - Los modelos de regresión predicen mejor en los clusters 0 y 1 que en el -1. Una posible explicación es que lso datos de ese cluster sean outliers, o muchos de ellso al menos.
 
@@ -81,7 +81,7 @@ Al aplicar modelos de Regresión sobre los 3 clusters obtenemos las siguientes m
 
 **Modelo sin clusters**
 
-![alt text](image-3.png)
+![imagen](image-3.png)
 
 - Con el dataframe unido obtenemos peores predicciones queen los clusters 0 y 1
 
